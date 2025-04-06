@@ -57,27 +57,6 @@ End Date: End Date of Attendance period
 
 This will delete all present attendance data and create new attendance objects for the given time range. 
 
-## Screenshots
-
-### Teacher Page
-
-![alt text](https://imgur.com/pMAoEbG.png)
-
-![alt text](https://imgur.com/ZiQ3RRA.png)
-
-![alt text](https://imgur.com/i025CJW.png)
-
-![alt text](https://imgur.com/HQlLYmC.png)
-
-![alt text](https://imgur.com/j6RyBmU.png)
-
-![alt text](https://imgur.com/xIKEMvQ.png)
-
-![alt text](https://imgur.com/4Rl7Fpv.png)
-
-### Student Page
-
-![alt text](https://imgur.com/isL9cjz.png)
 
 ![alt text](https://imgur.com/5pzl7m3.png)
 
